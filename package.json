@@ -1,0 +1,22 @@
+{
+  "name": "home-hunting-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeancarlosherrera/home-hunting-app.git"
+  },
+  "author": "Jean C. Herrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeancarlosherrera/home-hunting-app/issues"
+  },
+  "homepage": "https://github.com/jeancarlosherrera/home-hunting-app#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
